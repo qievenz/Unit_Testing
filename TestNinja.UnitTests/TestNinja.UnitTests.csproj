@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestNinja\TestNinja.csproj" />
+    <ProjectReference Include="..\TestNinjaCore\TestNinjaCore.csproj" />
   </ItemGroup>
 
 </Project>
